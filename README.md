@@ -17,3 +17,4 @@
 ##Using<br>
 ###1.其中左右的图片可以自行设置，但是左边（trumpetImage：图片名）必须有图片，右边（removeImage：图片名）的可有可无（且可以点击操作removeAdvertisementBlock）;<br>
 ###2.广告的内容文字颜色（textColor）和文字大小（textFont）也可自行设置；<br>
+###3.切换滚动的时间和停留的时间可以通过代理自行设置；<br>
