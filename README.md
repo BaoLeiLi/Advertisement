@@ -7,11 +7,11 @@
 
 ###垂直(AdvertisementDirectionVertical)<br>
 
-![gif](https://github.com/BaoLeiLi/Advertisement/gif/vertical.gif)
+![gif](https://github.com/BaoLeiLi/Advertisement/tree/master/Advertisement/gif/vertical.gif)
 
 ###水平(AdvertisementDirectionHorizontal)<br>
 
-![gif](https://github.com/BaoLeiLi/Advertisement/gif/horizontal.gif)
+![gif](https://github.com/BaoLeiLi/Advertisement/tree/master/Advertisement/gif/horizontal.gif)
 <br>
 
 ##Using<br>
